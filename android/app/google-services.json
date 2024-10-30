@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139433682840",
+    "project_id": "rp-car",
+    "storage_bucket": "rp-car.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139433682840:android:e49d36fdc837903ec2aded",
+        "android_client_info": {
+          "package_name": "com.rp_car"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIuL08FueIHxWY8cjp_ud0FIk8vsYqcBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
